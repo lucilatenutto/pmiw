@@ -1,0 +1,18 @@
+let textosPantalla = [
+  "\nGravity Falls\nMenú principal",
+  "\nCreditos\nGonzalez Victoria\nTenutto Lucila",
+  "\nLos habitantes de Gravity Falls comenzaron a desaparecer",
+  "\nViajan al bosque en busca de respuestas",
+  "\nEncuentran una pista que los guía a la verdad\nes hora de decidir si continuar solos\no pedir ayuda",
+  "\nInvestigan solos, el peligro aumenta",
+  "\nEncuentran una cueva misteriosa",
+  "\nLo enfrentan, pero no logran sobrevivir...",
+  "\nPiden ayuda a Soos y Wendy",
+  "\nJuntos, luego de debatir,\n encuentran otra pista en un auto abandonado",
+  "\nLa pista los lleva a consultar los tres libros\ny descubren la causante es una maquina del tiempo",
+  "Encuentran la maquina y deciden:",
+  "\nDestruyen la maquina del tiempo",
+  "\nTodo se resolvió y todo el pueblo\nse junta a festejar en la cabaña",
+  "\nUsan la maquina del tiempo",
+  "\nLogran la desaparición del pueblo entero,\nexcepto ellos",
+];
